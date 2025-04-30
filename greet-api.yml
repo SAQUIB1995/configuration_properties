@@ -11,4 +11,6 @@ management:
       exposure:
         include: '*'
 
-msg:Good Morning
+greet:
+  msg: Good Morning
+
