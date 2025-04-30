@@ -11,3 +11,4 @@ management:
       exposure:
         include: '*'
 
+msg:Good Morning
