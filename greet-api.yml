@@ -12,5 +12,5 @@ management:
         include: '*'
 
 greet:
-  msg: Good Morning
+  msg: Good evening
 
